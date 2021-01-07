@@ -1,1 +1,5 @@
-# CAPE_AI-technical_assessment
+# docker-node
+
+```sh
+$ docker-compose up --build
+```
